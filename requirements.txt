@@ -1,0 +1,7 @@
+requests
+os
+random
+time
+selenium
+colorama
+termcolor
